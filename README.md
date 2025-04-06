@@ -38,3 +38,9 @@ Run the training script to create the anomaly detection model.
 Launch the Streamlit app to start monitoring processes.
 
     streamlit run visualization.py
+
+
+
+# 📌 Note
+    Ensure you have Python 3.x installed.
+    Install additional packages if prompted by any error messages.
