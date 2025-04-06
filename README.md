@@ -39,6 +39,10 @@ Launch the Streamlit app to start monitoring processes.
 
     streamlit run visualization.py
 
+# 7. Team Member's
+    Abhishek Gupta(12323073)
+    Saurabh Kumar(12303432)
+    Sudhanshu Kumar Suman (12319001)
 
 
 # 📌 Note
