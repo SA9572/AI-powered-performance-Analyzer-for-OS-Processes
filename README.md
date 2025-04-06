@@ -1,7 +1,7 @@
 # # AI-powered performance Analyzer for OS Processes
 This project is an AI-powered tool designed to monitor and analyze OS processes in real-time, detecting anomalies using machine learning.
 
-📁 Installation and Setup
+# 📁 Installation and Setup
 
 Follow these steps to set up the project:
 
